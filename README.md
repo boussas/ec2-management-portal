@@ -3,8 +3,11 @@
 A simple interactive **Bash CLI tool** to manage AWS EC2 instances using the AWS CLI.  
 It provides a convenient menu-driven interface to list, start, stop, reboot, view details, terminate instances, and check their health status.
 
----
+#### Architectural Diagram:
 
+<img src="https://github.com/user-attachments/assets/18f8d2f1-ab61-49c7-9801-9f57d6618e9b" width="895" height="469" />
+
+---
 ## Features
 
 - List all EC2 instances in a given AWS region (with names and states)
